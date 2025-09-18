@@ -1,7 +1,7 @@
 # Hi 👋 I'm Harley Townsend
 
-# 💫 About Me:
-I am a first-year computer science student at Swansea University, very passionate about improving and delving into various coding languages, artificial intelligence, and constructing intuitive applications.
+# About Me:
+I am a (former) computer science student at Swansea University, very passionate about improving and delving into various coding languages, artificial intelligence, and constructing intuitive applications.
 
 
 ## 🌐 Socials:
